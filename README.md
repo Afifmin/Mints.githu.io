@@ -1,1 +1,1 @@
-# Mints.githu.io
+# Mints.github.io
